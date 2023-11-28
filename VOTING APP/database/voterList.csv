@@ -1,0 +1,9 @@
+,voter_id,Aadhar Number,Name,Gender,Age,Zone,City,Passw,hasVoted
+0,10001,333384747904,Mansi Bakhshi,20,Female,West,Bangalore,abcd,1
+1,10002,333384747904,Mansi,20,Female,West,Bengaluru,qwerty,1
+2,10003,123213231443,Diya Sajan,21,Female,East,Nagpur,qwerty,1
+3,10004,122237876654,Fahad Usmani,22,Male,North,Prayagraj,qwerty,1
+4,10005,798756093345,Shreyash Havale,22,Male,South,Delhi,qwerty,1
+5,10006,2,diya,21,Female,3,Nagpur,nagpur,1
+6,10007,3636489124,Nakul,20,Male,SpringField,Faridabad,pass1,1
+7,10008,12331255,Manoj,35,Male,Sehore,Bhopal,pass2,0
